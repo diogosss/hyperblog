@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    block-size: auto;
+}
+
+body {
+    color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
